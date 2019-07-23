@@ -73,7 +73,7 @@ int main(){
 			}
 		}
 
-		if (counter = 4) {
+		if (counter == 4) {
 
 			std::cout << "Number: ";
 			std::cin >> num2;
